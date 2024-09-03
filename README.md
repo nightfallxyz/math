@@ -1,73 +1,7 @@
-<div align="center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
-
-<h3>Open Source Society University</h3>
-<p>
-  :abacus: Path to a free self-taught education in Math!
-</p>
-<p>
-  <a href="https://github.com/open-source-society/math">
-    <img alt="Open Source Society University - Math" src="https://img.shields.io/badge/OSSU-math-blue.svg">
-  </a>
-</p>
-</div>
-
 # Contents
 
-- [Summary](#summary)
-- [Community](#community)
-- [Code of conduct](#code-of-conduct)
 - [Curriculum](#curriculum)
 - [License](#license)
-
-# Summary
-
-The OSSU curriculum is a **complete education in mathematics** using online materials.
-It's for those who want a proper grounding in concepts fundamental to all math disciplines,
-and for those who have the discipline, will, and good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
-
-It is designed according to the degree requirements of undergraduate math majors, minus general education (non-math) requirements,
-as it is assumed most of the people following this curriculum are already educated outside the field of math.
-The courses themselves are among the very best in the world, often coming from Harvard, MIT, Stanford, etc.,
-but specifically chosen to meet the following criteria.
-
-**Courses must**:
-- Match our [curricular guidelines](CURRICULAR_GUIDELINES.md) the 2015 CUPM Guide.
-- Be open for enrollment
-- Run regularly (ideally in self-paced format, otherwise running multiple times per year)
-- Be of high quality in teaching materials and pedagogical practice
-
-When no course meets the above criteria, the coursework is supplemented with a book.
-
-**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 18-22 hours/week to your studies.
-
-**Cost**. OSSU strives to identify free resources to reach your learning goal. However, some courses may charge money for assignments/tests/projects to be graded.
-
-Decide how much or how little to spend based on your own time and budget;
-just remember that you can't purchase success!
-
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-- For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
-- Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
-- Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
-
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Respect the code of conduct that you sign in the beginning of each course!*
-
-**[How to contribute](CONTRIBUTING.md)**
-
-**[Getting help](HELP.md)** (Details about our FAQ and chatroom)
-
-# Community
-
-- We have a Discord server! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/5pUhfpX)
-- You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
-- Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
-
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 # Curriculum
 
@@ -103,7 +37,7 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | [high school math](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
@@ -115,7 +49,7 @@ Calculus is the study of change (differential calculus) and accumulation of quan
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [high school math](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
